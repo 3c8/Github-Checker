@@ -1,5 +1,5 @@
 # Github Checker
-Simple Tool To Check If Github User Available Or Not<br>
+> Simple Tool To Check If Github User Available Or Not<br>
 ![Screenshot_48](https://user-images.githubusercontent.com/88463490/149592915-2c780980-3d44-4417-b722-1eafb5d5304b.png)
 
 <h3 align="left">Credit</h3>

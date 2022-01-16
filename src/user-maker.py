@@ -72,3 +72,4 @@ file.write(lines + "\n")
 file.close()
 print(f"\n[{Fore.GREEN}+{Fore.RESET}] After Filtering -->", file_lengthy2(f"users.txt"))
 print(f"[{Fore.CYAN}i{Fore.RESET}] All Users Were Saved In [ users.txt ]")
+⠀ 
